@@ -107,7 +107,7 @@ Two internal links are prominently placed:
 2. **Services page link** - In the Important Notice section (line ~45) and CTA section (line ~1850)
 
 To update these links:
-- Search for `cdroofingltd.ca` in the HTML
+- Search for `cdroofingltd.com` in the HTML
 - Replace with your desired URLs
 - Keep the anchor text descriptive and natural
 
@@ -242,8 +242,8 @@ To maintain consistency when updating content:
 ## Contact & Support
 
 For questions about this guide or C.D. Roofing services:
-- Website: https://cdroofingltd.ca
-- Specialized Services: https://cdroofingltd.ca/roof-repair-services-durham-region/
+- Website: https://cdroofingltd.com
+- Roof Repair Services: https://cdroofingltd.com/roof-repair/
 
 ## License
 
